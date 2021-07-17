@@ -39,7 +39,8 @@ $ gatsby new contentful-starter https://github.com/Hachem-B/Avengers-Blog.git
 
 This project comes with a Contentful setup command `yarn run setup`.
 
-![Command line dialog of the yarn run setup command](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/setup.jpg "Command line dialog of the yarn run setup command")
+
+<img src="./setup.jpg"  >  "Command line dialog of the yarn run setup command")
 
 This command will ask you for a space ID, and access tokens for the Contentful Management and Delivery API and then import the needed content model into the space you define and write a config file (`./contentful.json`).
 
